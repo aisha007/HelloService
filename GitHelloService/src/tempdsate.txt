@@ -1,5 +1,3 @@
-asdasda
+db.source=dbname:main
+db.source=username:<your name>
 
-asdasdad
-sa
-d
